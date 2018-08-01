@@ -1,4 +1,5 @@
 # FaceOff
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ### yarn start
    - Starts the development server.
